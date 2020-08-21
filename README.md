@@ -9,7 +9,7 @@ https://gerardosantana.com
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [Bootstrap](https://maven.apache.org/) -  CSS framework directed at responsive, mobile-first front-end web development
 
-##Preview
+## Preview
 
 ![alt-text](https://github.com/GerardoSant/Personal-Website/blob/master/preview.gif)
 
