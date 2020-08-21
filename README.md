@@ -11,7 +11,7 @@ https://gerardosantana.com
 
 ##Preview
 
-
+![alt-text](https://github.com/GerardoSant/Personal-Website/blob/master/preview.gif)
 
 ## License
 
